@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/815/0*PatkATBDaRl9ygN0)
 <h1 align="center">Hi 👋, I'm Kaushik Sarkar</h1>
 <h3 align="center">A passionate Full Stack developer from Kolkata,India</h3>
-<img align="right" alt="Coding" width="200" src="https://media-exp1.licdn.com/dms/image/C5603AQE8_ADloS2JaA/profile-displayphoto-shrink_800_800/0/1657902351252?e=1669248000&v=beta&t=Qjse7cNbd5aZJ0gLn_LMD646pfGp8CWHeeUq-MJFxcY">
+<img align="right" alt="Coding" width="100" src="https://media-exp1.licdn.com/dms/image/C5603AQE8_ADloS2JaA/profile-displayphoto-shrink_800_800/0/1657902351252?e=1669248000&v=beta&t=Qjse7cNbd5aZJ0gLn_LMD646pfGp8CWHeeUq-MJFxcY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushiktech2020&label=Profile%20views&color=0e75b6&style=flat" alt="koushiktech2020" /> </p>
 
